@@ -1,1 +1,1 @@
-# financial-explorer-proj
+# Financial_Data_Explorer
